@@ -4,6 +4,8 @@
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "module": "esnext",
+    "removeComments": true,
+    "preserveConstEnums": true,
     "moduleResolution": "node",
     "outDir": "dist/",
     "sourceMap": true,
